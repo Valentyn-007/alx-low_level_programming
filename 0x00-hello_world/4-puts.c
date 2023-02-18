@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * This is the puts exercise
+ * main - prints using puts
+ *
+ * Return: 0 if successful
  */
 int main(void)
 {
