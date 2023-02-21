@@ -9,7 +9,9 @@ int main(void)
 {
 	char c = 'a';
 
-	// print lowercase alphabet
+	/**
+	 * print lowercase alphabet
+	 */
 	while (c <= 'z')
 	{
 	putchar(c);
@@ -18,7 +20,9 @@ int main(void)
 
 	c = 'A';
 
-	// print uppercase alphabet
+	/**
+	 * print uppercase alphabet
+	 */
 	while (c <= 'Z')
 	{
 	putchar(c);
