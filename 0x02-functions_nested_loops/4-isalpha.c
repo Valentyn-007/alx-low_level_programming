@@ -3,6 +3,7 @@
 
 /**
  * _isalpha - checks for alphabets
+ * @c: parameter of the _isalpha function
  *
  * Return: 0 if successful
  */
