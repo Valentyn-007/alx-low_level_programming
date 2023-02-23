@@ -4,7 +4,7 @@
 /**
  * print_sign - checks for alphabets
  *
- * @n - parameter of the print_sign function
+ * @n: parameter of the print_sign function
  *
  * Return: 0 if successful
  */
@@ -25,5 +25,4 @@ int print_sign(int n)
 		putchar('-');
 		putchar('1');
 		}
-	return (0);
 	}
