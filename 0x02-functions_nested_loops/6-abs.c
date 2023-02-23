@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_sign - checks for alphabets
+ * _abs - main entry point
  *
  * @n: - parameter of the _abs function
  *
