@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - main entry point of program
+ * print_alphbet - main entry point of program
  * 
  *
  * Return: 0 if successful
@@ -17,5 +17,4 @@ void print_alphabet(void)
 		}
 	_putchar('\n');
 
-	return (0);
 	}
