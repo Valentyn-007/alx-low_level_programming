@@ -4,7 +4,7 @@
 /**
  * print_sign - checks for alphabets
  *
- * @
+ * @n - parameter of the print_sign function
  *
  * Return: 0 if successful
  */
